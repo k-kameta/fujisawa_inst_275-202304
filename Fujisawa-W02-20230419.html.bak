@@ -47,7 +47,7 @@
           <td style="text-align: center; width: 165.65px;">日付</td>
           <td style="text-align: center; width: 120.4px;">単元</td>
           <td style="text-align: center; width: 243.9px;">課</td>
-          <td style="text-align: center; width: 285.05px;">読書課題</td>
+          <td style="text-align: center; width: 285.05px;"><span style="color: red;">読書課題</span></td>
         </tr>
         <tr>
           <td rowspan="2" colspan="1" style="text-align: center;"> 2023年4月19日<br>
